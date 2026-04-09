@@ -36,9 +36,5 @@
 
 <img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/55da0fcd-844c-440b-a2a8-c54db07d3e3d" />
 
-<img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/acb70c7a-b2e2-444b-ac7d-afbbdbc55434" />
-
-<img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/4d5e45a6-c718-47bf-8350-f38b946e5c0a" />
-
 **Вывод:** Использование GPU оправдано для задач массового поиска подстрок, особенно при больших объёмах данных. Чем больше данных, тем заметнее преимущество GPU, так как время выполнения на GPU остаётся практически постоянным благодаря параллельной обработке.
 
